@@ -1,0 +1,27 @@
+{
+    "invoice": [
+        {
+            "id": 105,
+            "date_created": "10/26/2020",
+            "date_shipped": "10/30/2020",
+            "subtotal": 1100.00,
+            "tax": 66,
+            "total": 1166.00
+        }
+    ],
+
+    "line_items": [
+        {
+             "_id": 1001,
+             "name": "lavender",
+             "price": 325.00,
+             "quantity": 1
+        },
+        {
+            "_id": 1003,
+            "name": "rosemary",
+            "price": 150.00,
+            "quantity": 3
+       }
+     ]
+}
