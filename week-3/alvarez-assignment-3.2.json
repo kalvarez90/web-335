@@ -1,0 +1,51 @@
+{
+    "user": [
+        {
+            "_id": 789654,
+            "first_name": " Karina",
+            "last_name": "Alvarez",
+            "date_of_birth": "01/21/1990",
+            "user_name": "kalvarez",
+
+            "role": [
+                {
+                    "_id": 2579,
+                    "position": "UX Designer Lv4",
+                    
+                    "permission": {
+                            "read": "true",
+                            "update": "true",
+                            "delete": "false",
+                            "manage": "true",
+                            "add_notes": "true"
+                    }
+                },
+                {
+                    "_id": 2580,
+                    "position": "web Developer Lv3",
+
+                    "permission": {
+                            "read": "true",
+                            "update": "true",
+                            "delete": "false",
+                            "manage": "false",
+                            "add_notes": "true"
+                    }
+                    
+                },
+                {
+                    "_id": 2581,
+                    "position": "Cyber Security Lv2",
+
+                    "permission": {
+                            "read": "true",
+                            "update": "false",
+                            "delete": "false",
+                            "manage": "false",
+                            "add_notes":"true"
+                    }
+                }
+            ]
+        }
+    ]
+}
