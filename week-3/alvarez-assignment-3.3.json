@@ -1,0 +1,61 @@
+{
+    "publisher": [
+        {
+            "publisher_name": "Simon & Schuster Books",
+            "publisher_code": "A-98563",
+            "publisher_address": "150 main streeT, Chicago, IL, 60176",
+
+            "book": [
+                {
+                    "book_name": "Getting Back to Happy",
+                    "book_price": 18.59,
+                    "book_isbn": "978-1593157241",
+
+                    "author": [
+                        {
+                            "author_first_name": "Marc",
+                            "author_last_name": "Chernoff",
+                            "author_phone": "789-963-1597",
+                            "author_email": "marc@gmail.com"
+                        },
+                        {
+                            "author_first_name": "Angel",
+                            "author_last_name": "Chernoff",
+                            "author_phone": "159-357-7895",
+                            "author_email": "angel@gmail.com"
+                        }
+                    ]
+                },
+                
+                {
+                    "book_name": "Five Feet Apart",
+                    "book_price": 12.59,
+                    "book_isbn": "1534437339",
+
+                    "author": [
+                        {
+                            "author_first_name": "Rachel",
+                            "author_last_name": "Lippincott",
+                            "author_phone": "548-510-4236",
+                            "author_email": "rachel@gmail.com"
+                        },
+                        {
+                            "author_first_name": "Mikki",
+                            "author_last_name": "Daughtry",
+                            "author_phone": "145-134-0350",
+                            "author_email": "mikki@gmail.com"
+                        },
+                        {
+                            "author_first_name": "Tobias",
+                            "author_last_name": "Iaconis",
+                            "author_phone": "985-026-6015",
+                            "author_email": "tobias@gmail.com"
+                        }
+                    ]
+
+                }
+
+            ]
+        }
+    ]
+}
